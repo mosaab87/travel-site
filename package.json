@@ -8,7 +8,8 @@
     "gulp-watch": "^5.0.1",
     "normalize.css": "^8.0.1",
     "npm": "^6.5.0",
-    "postcss-simple-vars": "^5.0.1"
+    "postcss-simple-vars": "^5.0.1",
+    "waypoints": "^4.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
